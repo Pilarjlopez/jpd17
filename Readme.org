@@ -74,14 +74,15 @@ allá del periodismo ciudadano, del 2.0, de las redes sociales, de la
 web. Periodismo, al fin y al cabo.
 * Call for Papers
 Os invitamos a enviar propuestas de:
-- Charla
+- Conferencias
 - Demo
-- Taller
-- Cualquier otra cosa
+- Talleres
+- Debates
+- O cualquier otra iniciativa relacionada con la temática de las JPD
 
-A través de alguno de los canales de comunicación.
+Envía tu propuesta a través de nuestro email: datosperiodismo (@) gmail.com 
 
-Independientemente del canal, pondremos todas las propuestas como
+Todas las propuestas las pondremos en
 [[https://github.com/jpdatos/jpd17/issues/][issues]].
 
 ** Idioma
